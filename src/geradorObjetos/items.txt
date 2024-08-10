@@ -1,0 +1,3 @@
+Peixe, 50.0
+Arroz, 25.0
+Frango, 46.87
